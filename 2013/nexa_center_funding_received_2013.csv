@@ -1,6 +1,6 @@
-"Date;Origin;Transaction Type;Currency;Transaction Amount;Description;URL 1;URL 2"
-"2013-02;European Commission DG Information Society and Media;grant;EUR;9600;Advanced payment for the participation of LAPSI2.0 Thematic Network on Legal Aspects of Public Sector Information;http://nexa.polito.it/lapsi2;http://lapsi-project.eu/about-lapsi-20"
-"2013-05;Google Ireland Limited;unrestricted gift;EUR;39607.55;Unrestricted gift to expand the Neubot measurement tool to include P2P throttling detection, and Android-based mobile measurement.;http://nexa.polito.it/neubot ;http://neubot.org/"
-"2013-09;European Commission DG Information Society and Media;grant;EUR;36070;First payment for the participation in Open-DAI;http://nexa.polito.it/open-dai  ;http://www.open-dai.eu/"
-"2013-10;Regione Piemonte Direzione Innovazione, Ricerca e Università;grant;EUR;99173.55;R&D contract supporting Innovazione in campo economico, culturale e sociale del territorio piemontese attraverso il miglior sfruttamento dei benefici derivanti dagli ecosistemi digitali aperti e da Internet in generale, Dati aperti su una rete aperta -;N/A;N/A"
-"2013-11;Telecom Italia;grant;EUR;30000;The law of service robots research project;http://nexa.polito.it/law-of-service-robots;N/A"
+Date,Origin,Transaction Type,Currency,Transaction Amount,Description,URL 1,URL 2
+2013-02,European Commission DG Information Society and Media,grant,EUR,9600,Advanced payment for the participation of LAPSI2.0 Thematic Network on Legal Aspects of Public Sector Information,http://nexa.polito.it/lapsi2,http://lapsi-project.eu/about-lapsi-20
+2013-05,Google Ireland Limited,unrestricted gift,EUR,39607.55,Unrestricted gift to expand the Neubot measurement tool to include P2P throttling detection and Android-based mobile measurement.,http://nexa.polito.it/neubot ,http://neubot.org/
+2013-09,European Commission DG Information Society and Media,grant,EUR,36070,First payment for the participation in Open-DAI,http://nexa.polito.it/open-dai  ,http://www.open-dai.eu/
+2013-10,Regione Piemonte Direzione Innovazione Ricerca e Università,grant,EUR,99173.55,R&D contract supporting Innovazione in campo economico culturale e sociale del territorio piemontese attraverso il miglior sfruttamento dei benefici derivanti dagli ecosistemi digitali aperti e da Internet in generale Dati aperti su una rete aperta -,N/A,N/A
+2013-11,Telecom Italia,grant,EUR,30000,The law of service robots research project,http://nexa.polito.it/law-of-service-robots,N/A
